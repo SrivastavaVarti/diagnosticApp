@@ -1,0 +1,42 @@
+.form_label{
+    font-weight: bold;
+    margin:15px 0;
+}
+.btn{
+    margin: 10px 0;
+}
+.navbar{
+    padding: 20px;
+    font-size: 1.2em;
+}
+.navelem{
+    margin-right: 5vw;
+}
+
+.btnAdm{
+    margin: 5px;
+}
+.cred{
+    margin-bottom: 35px;
+    font-size: 0.8em;
+}
+
+.bdpTable{
+    height: 73vh;
+}
+
+/* Footer.css */
+
+.footer {
+    background-color: black;
+    padding: 20px 0;
+    color: white;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+  }
+  
+.footp {
+    margin: 0;
+  }
+  
